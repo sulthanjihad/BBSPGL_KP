@@ -1,2 +1,2 @@
-# BBSPGL_KP
-Web Penyewaan Alat-alat
+# BBSPGL
+Sewa Alat-alat Geologi
